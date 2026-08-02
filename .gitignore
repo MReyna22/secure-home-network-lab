@@ -1,0 +1,62 @@
+# Private source materials — never publish
+*.docx
+*.doc
+*.pdf
+uploaded_attachments/
+xr1000_media/
+xr1000_render/
+xr1000_contact_sheets/
+*_report.txt
+
+# Raw / unsanitized screenshots and exports
+raw-screenshots/
+raw-media/
+*-raw.png
+*-raw.jpg
+*-unredacted.*
+screenshots-original/
+
+# Configuration backups and device exports
+*.cfg
+*.chk
+*.backup
+*.bak
+config-backup*
+*router-backup*
+firmware/
+*.img
+*.bin
+
+# Logs and captures
+*.log
+*.pcap
+*.pcapng
+firewall-logs/
+scan-results/
+*.nmap
+*.gnmap
+*.xml
+
+# Secrets and credentials
+*.env
+.env.*
+secrets/
+credentials/
+*.pem
+*.key
+*.crt
+*.pfx
+*password*
+*credential*
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Local scratch space
+tmp/
+scratch/
+drafts/

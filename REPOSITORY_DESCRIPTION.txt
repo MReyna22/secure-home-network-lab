@@ -1,0 +1,16 @@
+GitHub description (short):
+Independent, authorized home-network hardening lab: router deployment, firmware change management, guest-network isolation validation, VMware bridged-network troubleshooting, Nmap service assessment, and Windows Firewall/endpoint correlation — documented with honest residual-risk findings.
+
+Suggested topics (8–12):
+network-security
+home-lab
+router-hardening
+nmap
+windows-firewall
+vmware
+kali-linux
+cybersecurity-portfolio
+network-troubleshooting
+vulnerability-documentation
+it-security
+change-management
