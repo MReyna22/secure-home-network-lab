@@ -211,7 +211,9 @@ review — see
 
 ## Future expansion
 
-- A dedicated pfSense or OPNsense appliance in place of the consumer router
+- Evaluate the revived [GW-001 / OpenWrt gateway](https://github.com/MReyna22/USG-Revival)
+  for a proposed isolated lab deployment, with equipment readiness and validation
+  tracked in [SLB Corona Donated Gear](https://github.com/MReyna22/slb-corona-donated-gear).
 - A managed switch with real VLAN segmentation
 - Additional Windows/Linux VMs and a small internal lab domain
 - Centralized logging (e.g., a lightweight SIEM or log shipper)
@@ -246,3 +248,4 @@ secure-home-network-lab/
         ├── README.md
         └── (sanitized evidence images)
 ```
+
