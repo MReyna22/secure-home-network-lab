@@ -248,4 +248,3 @@ secure-home-network-lab/
         ├── README.md
         └── (sanitized evidence images)
 ```
-
