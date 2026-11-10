@@ -214,6 +214,11 @@ review — see
 - Evaluate the revived [GW-001 / OpenWrt gateway](https://github.com/MReyna22/USG-Revival)
   for a proposed isolated lab deployment, with equipment readiness and validation
   tracked in [SLB Corona Donated Gear](https://github.com/MReyna22/slb-corona-donated-gear).
+- PC-003 is being prepared as a separate Ubuntu lab-services host. Its
+  [current record](https://github.com/MReyna22/slb-corona-donated-gear/blob/main/docs/devices/PC-003.md)
+  documents encrypted storage, NVIDIA checks and Hermes setup completion.
+  Checkmk monitoring is planned; no monitoring or SDN integration with this
+  network is deployed or validated. PC-001/PC-002 roles remain undecided.
 - A managed switch with real VLAN segmentation
 - Additional Windows/Linux VMs and a small internal lab domain
 - Centralized logging (e.g., a lightweight SIEM or log shipper)
